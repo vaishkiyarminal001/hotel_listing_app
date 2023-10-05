@@ -1,0 +1,706 @@
+{
+    "hotel":[
+        
+            {
+                "id": 1,
+                "image": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?cs=srgb&dl=pexels-lukas-kloeppel-466685.jpg&fm=jpg",
+                "address": "8558 Pecan St.",
+                "title": "RCE Theater - 907 S Beckford Dr, Henderson, NC 27536",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 2,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Typical_Paris_Apartment.jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 3,
+                "image": "https://fwtx.com/downloads/34096/download/Loews%20Arlington%20hotel%20and%20convention%20center%20pic.jpeg?cb=6049b31c23b71e827c62c1aa0ca9073f",
+                "address": "3890 Po lar Dr.",
+                "title": "Regal North Hills - 4150 Main at North Hills St, Releigh",
+                "room": "3 room",
+                "bed": "5 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$5,256",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 4,
+                "image": "https://cdn.loewshotels.com/loewshotels.com-2466770763/cms/cache/v2/63c0217880219.jpg/1920x1080/fit;c:0,1813,5000,4626;fp:43,68/80/6edb183d3d8987964301e72cadd38478.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 5,
+                "image": "https://wallpaperaccess.com/full/123346.jpg",
+                "address": "Parker Rd.",
+                "title": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$8,259",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 6,
+                "image": "https://www.cordish.com/-/media/cordish/images/corporate-mixed-use-districts/livebyloewsarlington/lblarlington_pool_email_1920x1080.ashx",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 7,
+                "image": "https://as2.ftcdn.net/v2/jpg/04/58/75/37/1000_F_458753740_FPgAWqu8BFdCzvWZ27r64kZMznV3qxHG.jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 8,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/La_Defense_Paris_%28128078875%29.jpeg/1280px-La_Defense_Paris_%28128078875%29.jpeg",
+                "address": "3890 Po lar Dr.",
+                "title": "Regal North Hills - 4150 Main at North Hills St, Releigh",
+                "room": "3 room",
+                "bed": "5 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$5,256",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 9,
+                "image": "https://getwallpapers.com/wallpaper/full/8/2/d/279116.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 10,
+                "image": "https://i.pinimg.com/736x/97/ae/5d/97ae5d3667eea1edbd3c3de312c0c217.jpg",
+                "address": "Parker Rd.",
+                "title": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$8,259",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 11,
+                "image": "https://wallpapers.com/images/featured/new-york-city-5oaa14h4mw6w3o71.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Mumbai"
+                 
+              },
+
+
+
+              {
+                "id": 12,
+                "image": "https://wallpapers.com/images/featured/new-york-city-5oaa14h4mw6w3o71.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "New York"
+                 
+              },
+
+
+
+              {
+                "id": 13,
+                "image": "https://content.r9cdn.net/rimg/himg/9a/56/4f/leonardo-176389322-LOEWS_LIVE_Clover_Club2b_(1)_O-425572.jpg?width=1200&height=630&crop=true",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 14,
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/a8/cb/loewslivepool-b.jpg?w=700&h=-1&s=1",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "New York"
+                 
+              },
+
+
+              {
+                "id": 15,
+                "image": "https://media.istockphoto.com/id/487042276/photo/hotel-sign.jpg?s=612x612&w=0&k=20&c=DjEVAoFnjB2cWwX28cxSKWkxsbze7o9jgkYrhyfmq9E=",
+                "address": "96558 Rd.",
+                "title": "Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+
+              {
+                "id": 16,
+                "image": "https://www.theluxevoyager.com/wp-content/uploads/2019/10/Grand-Powers-Hotel-Paris-Exterior-819x546.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+
+
+              {
+                "id": 17,
+                "image": "https://images.pexels.com/photos/4947281/pexels-photo-4947281.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 18,
+                "image": "https://images.pexels.com/photos/14069104/pexels-photo-14069104.jpeg?cs=srgb&dl=pexels-mehmet-turgut-kirkgoz-14069104.jpg&fm=jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 19,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Taj_Mahal_Palace_Hotel.jpg/1200px-The_Taj_Mahal_Palace_Hotel.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 20,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hotel_Taj_Mahal_At_Mumbai_%2886312899%29.jpeg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Mumbai"
+                 
+              },
+
+
+              {
+                "id": 21,
+                "image": "https://cdn.vox-cdn.com/thumbor/q4s1jgniP6XzMvhIIxoA_yvp5zM=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19333395/hotel9.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "London"
+                 
+              },
+
+
+
+              {
+                "id": 22,
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2017/03/nintchdbpict000305630924.jpg?strip=all&w=960",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "London"
+                 
+              },
+
+
+
+              {
+                "id": 23,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Tower_Hotel%2C_London_17_September_2007.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 24,
+                "image": "https://www.familyvacationcritic.com/wp-content/uploads/sites/19/2014/01/the-milestone-hotel.jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 25,
+                "image": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?cs=srgb&dl=pexels-lukas-kloeppel-466685.jpg&fm=jpg",
+                "address": "8558 Pecan St.",
+                "title": "RCE Theater - 907 S Beckford Dr, Henderson, NC 27536",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 26,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Typical_Paris_Apartment.jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 27,
+                "image": "https://fwtx.com/downloads/34096/download/Loews%20Arlington%20hotel%20and%20convention%20center%20pic.jpeg?cb=6049b31c23b71e827c62c1aa0ca9073f",
+                "address": "3890 Po lar Dr.",
+                "title": "Regal North Hills - 4150 Main at North Hills St, Releigh",
+                "room": "3 room",
+                "bed": "5 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$5,256",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 28,
+                "image": "https://cdn.loewshotels.com/loewshotels.com-2466770763/cms/cache/v2/63c0217880219.jpg/1920x1080/fit;c:0,1813,5000,4626;fp:43,68/80/6edb183d3d8987964301e72cadd38478.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 29,
+                "image": "https://wallpaperaccess.com/full/123346.jpg",
+                "address": "Parker Rd.",
+                "title": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$8,259",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 30,
+                "image": "https://www.cordish.com/-/media/cordish/images/corporate-mixed-use-districts/livebyloewsarlington/lblarlington_pool_email_1920x1080.ashx",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 31,
+                "image": "https://as2.ftcdn.net/v2/jpg/04/58/75/37/1000_F_458753740_FPgAWqu8BFdCzvWZ27r64kZMznV3qxHG.jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 32,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/La_Defense_Paris_%28128078875%29.jpeg/1280px-La_Defense_Paris_%28128078875%29.jpeg",
+                "address": "3890 Po lar Dr.",
+                "title": "Regal North Hills - 4150 Main at North Hills St, Releigh",
+                "room": "3 room",
+                "bed": "5 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$5,256",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 33,
+                "image": "https://getwallpapers.com/wallpaper/full/8/2/d/279116.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 34,
+                "image": "https://i.pinimg.com/736x/97/ae/5d/97ae5d3667eea1edbd3c3de312c0c217.jpg",
+                "address": "Parker Rd.",
+                "title": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$8,259",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 35,
+                "image": "https://wallpapers.com/images/featured/new-york-city-5oaa14h4mw6w3o71.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Mumbai"
+                 
+              },
+
+
+
+              {
+                "id": 36,
+                "image": "https://wallpapers.com/images/featured/new-york-city-5oaa14h4mw6w3o71.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "New York"
+                 
+              },
+
+
+
+              {
+                "id": 36,
+                "image": "https://content.r9cdn.net/rimg/himg/9a/56/4f/leonardo-176389322-LOEWS_LIVE_Clover_Club2b_(1)_O-425572.jpg?width=1200&height=630&crop=true",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "New York"
+                 
+              },
+
+              {
+                "id": 37,
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/37/a8/cb/loewslivepool-b.jpg?w=700&h=-1&s=1",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "New York"
+                 
+              },
+
+
+              {
+                "id": 38,
+                "image": "https://media.istockphoto.com/id/487042276/photo/hotel-sign.jpg?s=612x612&w=0&k=20&c=DjEVAoFnjB2cWwX28cxSKWkxsbze7o9jgkYrhyfmq9E=",
+                "address": "96558 Rd.",
+                "title": "Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+
+              {
+                "id": 39,
+                "image": "https://www.theluxevoyager.com/wp-content/uploads/2019/10/Grand-Powers-Hotel-Paris-Exterior-819x546.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+
+
+              {
+                "id": 40,
+                "image": "https://images.pexels.com/photos/4947281/pexels-photo-4947281.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 41,
+                "image": "https://images.pexels.com/photos/14069104/pexels-photo-14069104.jpeg?cs=srgb&dl=pexels-mehmet-turgut-kirkgoz-14069104.jpg&fm=jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Paris"
+                 
+              },
+
+              {
+                "id": 42,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Taj_Mahal_Palace_Hotel.jpg/1200px-The_Taj_Mahal_Palace_Hotel.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "Mumbai"
+                 
+              },
+
+              {
+                "id": 43,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hotel_Taj_Mahal_At_Mumbai_%2886312899%29.jpeg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "Mumbai"
+                 
+              },
+
+
+              {
+                "id": 44,
+                "image": "https://cdn.vox-cdn.com/thumbor/q4s1jgniP6XzMvhIIxoA_yvp5zM=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19333395/hotel9.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "London"
+                 
+              },
+
+
+
+              {
+                "id": 45,
+                "image": "https://www.thesun.co.uk/wp-content/uploads/2017/03/nintchdbpict000305630924.jpg?strip=all&w=960",
+                "address": "8558 Green Rd.",
+                "title": "Dollar General - 5416 Rock Quarry Rd,Raleigh, NC 27610",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "London"
+                 
+              },
+
+
+
+              {
+                "id": 46,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Tower_Hotel%2C_London_17_September_2007.jpg",
+                "address": "8558 Green Rd.",
+                "title": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$10,255",
+                "city": "London"
+                 
+              },
+
+              {
+                "id": 47,
+                "image": "https://www.familyvacationcritic.com/wp-content/uploads/sites/19/2014/01/the-milestone-hotel.jpg",
+                "address": "8558 Parker Rd.",
+                "title": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+                "room": "3 room",
+                "bed": "4 Bed",
+                "bath": "1 Bath",
+                "sft": "732 sftr",
+                "price": "$7,255",
+                "city": "London"
+                 
+              }
+        
+        
+
+    ]
+}
+

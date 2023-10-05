@@ -1,0 +1,144 @@
+body{
+    background-color: #f4f5fd;
+    font-family: sans-serif;
+    /* border: 1px solid red; */
+    width: 85%;
+    margin: auto;
+    margin-bottom: 5% ;
+}
+
+.cityName{
+    /* border: 1px solid red; */
+    margin-top: 5%;
+    width: 80%;
+    margin-bottom: 3%;
+    margin-left: 2%;
+    
+}
+
+.cityName > button{
+    font-size: 18px;
+    padding: 2%;
+    width: 20%;
+    margin-right: 5%;
+    border-radius: 40px;
+    background-color: #ebecfb;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor: pointer;
+
+
+    &:active {
+        background-color: #3739e4;
+        color: white;
+      }
+}
+
+
+.imageHotel{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding-left: 2%;
+    
+   
+}
+
+.image {
+    border: 5px solid white;
+    width: 80%;
+    border-radius:20px ;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.image > img {
+    width: 100%; 
+    border-radius:20px;
+    height: 200px;
+    
+}
+
+.text{
+    font-size: 15px;
+    text-align: left;
+}
+
+.text > h2{
+    font-size: 20px;
+}
+
+.details{
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.details > p{
+    /* border: 1px solid red; */
+    padding: 1%;
+    margin: auto;
+}
+
+.price{
+    font-size: 30px;
+    display: flex;
+    /* border: 1px solid red; */
+    color: #3739e4;
+}
+
+span{
+    font-size: 20px;
+}
+
+.price > button{
+
+    background-color: #3739e4; 
+    color: white; 
+    font-weight: bold;
+    border: none;
+    border-color: rgb(162, 237, 252);
+    height: 35px;
+    width: 30%;
+    border-radius: 35px; 
+    cursor: pointer;
+    margin-top: 35px; 
+    /* border: 1px solid red; */
+    margin-left: 25%;
+    height: 45px;
+   
+
+  }
+  .icon {
+    margin-right: 5px; 
+    vertical-align: middle; 
+    color:#3739e4;  
+  }
+
+  .mainContainer{
+    padding: 5%;
+    width: 50%;
+    /* border: 1px solid red; */
+    margin: auto;
+  }
+
+
+  .showButton{
+
+    /* border: 1px solid red; */
+    padding: 2%;
+    margin-top: 2%;
+  }
+
+
+  .showButton > button{
+    /* border: 1px solid red; */
+    padding: 1%;
+    width: 20%;
+    height: 70px;
+    border-radius:50px;
+    font-size: 20px;
+    background-color: #3739e4;
+    color: white;
+    border: none;
+  }
