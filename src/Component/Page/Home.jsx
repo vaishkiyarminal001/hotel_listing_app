@@ -26,7 +26,7 @@ export default function Home() {
   // display hotel
 
   const displayHotel = async() =>{
-    let url = `http://localhost:8080/hotel?city=${city}&_limit=${count}`;
+    let url = `https://rentcar-5a8v.onrender.com/hotel?city=${city}&_limit=${count}`;
 
     const res = await fetch(url);
     const data = await res.json();

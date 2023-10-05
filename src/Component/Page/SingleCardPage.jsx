@@ -23,7 +23,7 @@ export default function SingleCardPage() {
   }, []);
 
   const displaySingle = async () => {
-    const res = await fetch(`http://localhost:8080/hotel/${id}`);
+    const res = await fetch(`https://rentcar-5a8v.onrender.com/hotel/${id}`);
     const data = await res.json();
     setState(data);
   }
